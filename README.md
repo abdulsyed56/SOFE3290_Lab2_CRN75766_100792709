@@ -52,3 +52,9 @@ This section is about the lab requirements of implmenting the operators *(+, *, 
 All tests were run in either Git Bash or VSCode Terminal with:
 *mvn clean test* &  
 *mvn spring-boot:run*
+
+---  
+
+## Video Link (Youtube)  
+
+https://www.youtube.com/watch?v=84oKLIeQyyc
